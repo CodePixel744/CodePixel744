@@ -46,7 +46,3 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codepixel744&show_icons=true&locale=en" alt="codepixel744" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codepixel744&" alt="codepixel744" />
-</p>
